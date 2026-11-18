@@ -1,0 +1,11 @@
+# Visual Studio local settings and cache
+.vs/
+*.vcxproj.user
+
+# Visual C++ build output
+/ALTANG_proj/ALTANG_proj/x64/
+/ALTANG_proj/ALTANG_proj/Debug/
+/ALTANG_proj/ALTANG_proj/Release/
+/ALTANG_proj/x64/
+/ALTANG_proj/Debug/
+/ALTANG_proj/Release/
